@@ -1,1 +1,1 @@
-# Simple-Digital-Banking-App-Back-End
+# Digital-Banking-App-Back-End
